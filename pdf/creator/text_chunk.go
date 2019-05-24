@@ -1,8 +1,8 @@
 package creator
 
 import (
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type TextChunk struct {

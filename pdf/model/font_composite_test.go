@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model/internal/fonts"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model/internal/fonts"
 )
 
 func TestCIDWidthArr(t *testing.T) {

@@ -15,11 +15,11 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/pkcs12"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/annotator"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
-	"github.com/codefinio/doc/pdf/model/sighandler"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/annotator"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model/sighandler"
 )
 
 // This test file contains multiple tests to generate PDFs from existing Pdf files. The outputs are written

@@ -30,8 +30,8 @@ import (
 
 	lzw1 "golang.org/x/image/tiff/lzw"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/internal/ccittfax"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/internal/ccittfax"
 )
 
 

@@ -3,8 +3,8 @@
 package creator
 
 import (
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Ellipse defines an ellipse with a center at (xc,yc) and a specified width and height.  The ellipse can have a colored

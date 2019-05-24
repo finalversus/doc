@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type TextFieldOptions struct {

@@ -3,7 +3,7 @@ package creator
 import (
 	"strings"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type TOCLine struct {

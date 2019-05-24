@@ -3,7 +3,7 @@ package creator
 import (
 	"testing"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func TestParagraphRegularVsStyled(t *testing.T) {

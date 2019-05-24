@@ -8,8 +8,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/testutils"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/testutils"
 )
 
 func TestSeparationCS1(t *testing.T) {

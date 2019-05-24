@@ -7,7 +7,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 // readAtLeast reads at least n bytes into slice p.

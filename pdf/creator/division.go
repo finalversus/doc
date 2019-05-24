@@ -5,7 +5,7 @@ package creator
 import (
 	"errors"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 // Division is a container component which can wrap across multiple pages (unlike Block).

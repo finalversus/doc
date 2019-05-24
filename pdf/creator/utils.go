@@ -3,8 +3,8 @@ package creator
 import (
 	"os"
 
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func loadPagesFromFile(f *os.File) ([]*model.PdfPage, error) {

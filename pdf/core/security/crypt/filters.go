@@ -3,7 +3,7 @@ package crypt
 import (
 	"fmt"
 
-	"github.com/codefinio/doc/pdf/core/security"
+	"github.com/finalversus/doc/pdf/core/security"
 )
 
 var (

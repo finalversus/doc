@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 var seed = rand.New(rand.NewSource(time.Now().UnixNano()))

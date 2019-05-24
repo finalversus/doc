@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 const fdfExample1 = `

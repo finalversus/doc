@@ -1,11 +1,11 @@
 package annotator
 
 import (
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	pdfcore "github.com/codefinio/doc/pdf/core"
-	pdf "github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	pdfcore "github.com/finalversus/doc/pdf/core"
+	pdf "github.com/finalversus/doc/pdf/model"
 )
 
 type RectangleAnnotationDef struct {

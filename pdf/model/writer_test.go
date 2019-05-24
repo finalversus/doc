@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // Tests loading annotations from file, writing back out and reloading.

@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
 )
 
 const fontDir = `../../../creator/testdata`

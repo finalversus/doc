@@ -1,7 +1,7 @@
 package creator
 
 import (
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type TextStyle struct {

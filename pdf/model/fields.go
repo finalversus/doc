@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // FieldFlag represents form field flags. Some of the flags can apply to all types of fields whereas other

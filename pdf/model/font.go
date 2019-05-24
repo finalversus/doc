@@ -8,12 +8,12 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 
-	"github.com/codefinio/doc/pdf/internal/cmap"
-	"github.com/codefinio/doc/pdf/internal/textencoding"
-	"github.com/codefinio/doc/pdf/model/internal/fonts"
+	"github.com/finalversus/doc/pdf/internal/cmap"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/pdf/model/internal/fonts"
 )
 
 // pdfFont is an internal interface for fonts that can be stored in PDF documents.

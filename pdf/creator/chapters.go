@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Chapter is used to arrange multiple drawables (paragraphs, images, etc) into a single section.

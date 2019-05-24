@@ -1,8 +1,8 @@
 package model
 
 import (
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // NewReaderForText makes a new PdfReader for an input PDF content string. For use in testing.

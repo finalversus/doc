@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // ParseIndObjSeries loads a series of indirect objects until it runs into an error or EOF.

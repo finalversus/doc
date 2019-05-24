@@ -3,7 +3,7 @@ package draw
 import (
 	"math"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type CubicBezierCurve struct {

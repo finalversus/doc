@@ -7,7 +7,7 @@ import (
 
 	"math"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 // Color interface represents colors in the PDF creator.

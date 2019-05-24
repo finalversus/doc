@@ -8,11 +8,11 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/transform"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/transform"
+	"github.com/finalversus/doc/pdf/model"
 	"golang.org/x/text/unicode/norm"
 )
 

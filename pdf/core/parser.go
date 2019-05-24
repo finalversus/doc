@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core/security"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core/security"
 )
 
 

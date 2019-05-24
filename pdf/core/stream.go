@@ -3,7 +3,7 @@ package core
 import (
 	"fmt"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 func NewEncoderFromStream(streamObj *PdfObjectStream) (StreamEncoder, error) {

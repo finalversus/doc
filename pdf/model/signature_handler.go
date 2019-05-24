@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // Hasher is the interface that wraps the basic Write method.

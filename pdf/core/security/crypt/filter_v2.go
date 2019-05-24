@@ -5,7 +5,7 @@ import (
 	"crypto/rc4"
 	"fmt"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 func init() {

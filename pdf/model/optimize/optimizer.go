@@ -3,7 +3,7 @@
 package optimize
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // New creates a optimizers chain from options.

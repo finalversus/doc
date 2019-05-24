@@ -5,8 +5,8 @@ package model
 import (
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/testutils"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/testutils"
 )
 
 // Test loading of a basic checkbox field with a merged-in annotation.

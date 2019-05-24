@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func TestInvoiceSimple(t *testing.T) {

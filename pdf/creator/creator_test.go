@@ -24,11 +24,11 @@ import (
 	"github.com/boombuler/barcode/qr"
 	"github.com/stretchr/testify/require"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
-	"github.com/codefinio/doc/pdf/model/optimize"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model/optimize"
 )
 
 func init() {

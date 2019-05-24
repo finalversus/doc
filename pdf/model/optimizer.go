@@ -3,7 +3,7 @@
 package model
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // Optimizer is the interface that performs optimization of PDF object structure for output writing.

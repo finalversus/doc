@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfRectangle is a definition of a rectangle.

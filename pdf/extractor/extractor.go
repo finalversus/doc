@@ -1,7 +1,7 @@
 package extractor
 
 import (
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type Extractor struct {

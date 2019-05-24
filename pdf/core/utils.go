@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 func checkBounds(sliceLen, a, b int) error {

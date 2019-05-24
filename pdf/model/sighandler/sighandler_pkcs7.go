@@ -10,8 +10,8 @@ import (
 
 	"github.com/gunnsth/pkcs7"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Adobe PKCS7 detached signature handler.

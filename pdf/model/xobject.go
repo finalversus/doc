@@ -5,8 +5,8 @@ package model
 import (
 	"errors"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // XObjectForm (Table 95 in 8.10.2).

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 type xrefType int

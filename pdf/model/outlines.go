@@ -5,8 +5,8 @@ package model
 import (
 	"fmt"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfOutlineTreeNode contains common fields used by the outline and outline

@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Paragraph represents text drawn with a specified font and can wrap across lines and pages.

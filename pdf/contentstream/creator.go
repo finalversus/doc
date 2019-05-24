@@ -3,9 +3,9 @@ package contentstream
 import (
 	"math"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type ContentCreator struct {

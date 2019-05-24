@@ -3,7 +3,7 @@
 package model
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfModel is a higher level PDF construct which can be collapsed into a PdfObject.

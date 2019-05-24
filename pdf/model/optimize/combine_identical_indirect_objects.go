@@ -5,7 +5,7 @@ package optimize
 import (
 	"crypto/md5"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // CombineIdenticalIndirectObjects combines identical indirect objects.

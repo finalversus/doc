@@ -7,11 +7,11 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 
-	"github.com/codefinio/doc/pdf/internal/textencoding"
-	"github.com/codefinio/doc/pdf/model/internal/fonts"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/pdf/model/internal/fonts"
 )
 
 // pdfFontSimple implements pdfFont

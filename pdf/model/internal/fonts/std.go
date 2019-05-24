@@ -3,8 +3,8 @@
 package fonts
 
 import (
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
 )
 
 // StdFontName is a name of a standard font.

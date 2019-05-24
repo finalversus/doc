@@ -3,8 +3,8 @@ package textencoding
 import (
 	"encoding/binary"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // CharCode is a character code used in the specific encoding.

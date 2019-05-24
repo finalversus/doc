@@ -9,8 +9,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Creator is a wrapper around functionality for creating PDF reports and/or adding new

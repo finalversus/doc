@@ -8,8 +8,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model/optimize"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model/optimize"
 )
 
 // parseIndirectObjects parses a sequence of indirect/stream objects sequentially from a `rawpdf` text.

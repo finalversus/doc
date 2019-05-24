@@ -5,8 +5,8 @@ package model
 import (
 	"errors"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfShading represents a shading dictionary. There are 7 types of shading,

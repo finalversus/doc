@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/internal/strutils"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/internal/strutils"
 )
 
 type PdfObject interface {

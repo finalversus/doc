@@ -1,7 +1,7 @@
 package draw
 
 import (
-	pdfcontent "github.com/codefinio/doc/pdf/contentstream"
+	pdfcontent "github.com/finalversus/doc/pdf/contentstream"
 )
 
 func DrawPathWithCreator(path Path, creator *pdfcontent.ContentCreator) {

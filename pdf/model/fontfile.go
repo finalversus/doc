@@ -22,9 +22,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
 )
 
 // fontFile represents a font file.

@@ -3,9 +3,9 @@
 package optimize
 
 import (
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Image optimizes images by rewrite images into JPEG format with quality equals to ImageQuality.

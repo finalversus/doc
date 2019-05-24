@@ -5,7 +5,7 @@ package optimize
 import (
 	"crypto/md5"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // CombineDuplicateDirectObjects combines duplicated direct objects by its data hash.

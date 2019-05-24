@@ -8,9 +8,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/core/security"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core/security"
 )
 
 // PdfReader represents a PDF file reader. It is a frontend to the lower level parsing mechanism and provides

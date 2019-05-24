@@ -11,8 +11,8 @@ import (
 	"errors"
 	"hash"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // SignFunc represents a custom signing function. The function should return

@@ -3,7 +3,7 @@
 package model
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // OutlineDest represents the destination of an outline item.

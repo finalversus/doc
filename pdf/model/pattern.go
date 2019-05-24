@@ -7,8 +7,8 @@ import (
 
 	"fmt"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // A PdfPattern can represent a Pattern, either a tiling pattern or a shading pattern.

@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfAppender appends new PDF content to an existing PDF document via incremental updates.

@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/core/security"
-	"github.com/codefinio/doc/pdf/core/security/crypt"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core/security"
+	"github.com/finalversus/doc/pdf/core/security/crypt"
 )
 
 var pdfAuthor = ""
@@ -724,7 +724,7 @@ func (w *PdfWriter) updateObjectNumbers() {
 
 // EncryptOptions represents encryption options for an output PDF.
 type EncryptOptions struct {
-	Permissions security.Permissions
+	Permissions core.AccessPermissions
 	Algorithm   EncryptionAlgorithm
 }
 

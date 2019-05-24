@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core/security"
-	crypto "github.com/codefinio/doc/pdf/core/security/crypt"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core/security"
+	crypto "github.com/finalversus/doc/pdf/core/security/crypt"
 )
 
 type EncryptInfo struct {

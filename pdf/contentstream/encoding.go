@@ -7,8 +7,8 @@ import (
 	gocolor "image/color"
 	"image/jpeg"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 func newEncoderFromInlineImage(inlineImage *ContentStreamInlineImage) (core.StreamEncoder, error) {

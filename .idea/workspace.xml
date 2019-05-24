@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5e14269-3921-4118-8961-8f23caa58606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pdf-fork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/annotator/circle.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/annotator/circle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/annotator/field_appearance.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/annotator/field_appearance.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/annotator/form_field.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/annotator/form_field.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/annotator/line.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/annotator/line.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/annotator/rectangle.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/annotator/rectangle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/contentstream.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/contentstream.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/creator.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/creator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/draw/bezier_curve.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/draw/bezier_curve.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/draw/point.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/draw/point.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/draw/shapes.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/draw/shapes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/draw/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/draw/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/encoding.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/encoding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/inline-image.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/inline-image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/processor.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/processor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/contentstream/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/contentstream/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/crossrefs.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/crossrefs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/crypt.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/crypt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/crypt_file_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/crypt_file_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/crypt_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/crypt_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/encoding.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/encoding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/encoding_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/encoding_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/io.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/io.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/parser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/parser_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/primitives.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/primitives.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/repairs.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/repairs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/crypt/filter_aesv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/crypt/filter_aesv2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/crypt/filter_aesv3.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/crypt/filter_aesv3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/crypt/filter_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/crypt/filter_v2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/crypt/filters.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/crypt/filters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/standard_r4.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/standard_r4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/security/standard_r4_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/security/standard_r4_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/stream.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/stream.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/stream_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/stream_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/core/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/core/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/block.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/block.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/border.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/border.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/chapters.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/chapters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/color.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/color.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/creator.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/creator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/creator_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/creator_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/curve.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/curve.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/division.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/division.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/division_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/division_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/ellipse.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/ellipse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/filled_curve.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/filled_curve.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/filled_curve_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/filled_curve_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/image.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/invoice_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/invoice_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/line.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/line.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/list_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/list_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/paragraph.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/paragraph.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/rectangle.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/rectangle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/styled_paragraph.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/styled_paragraph.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/styled_paragraph_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/styled_paragraph_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/table.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/table.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/table_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/table_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/text_chunk.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/text_chunk.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/text_style.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/text_style.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/toc_line.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/toc_line.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/toc_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/toc_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/creator/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/creator/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/extractor.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/extractor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/image.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/image_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/image_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/text.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/text.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/text_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/text_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/extractor/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/extractor/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fdf/fielddata.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fdf/fielddata.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fdf/io.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fdf/io.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fdf/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fdf/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fdf/parser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fdf/parser_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fjson/fielddata.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fjson/fielddata.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/fjson/fielddata_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/fjson/fielddata_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/cmap/cmap.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/cmap/cmap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/cmap/cmap_parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/cmap/cmap_parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/cmap/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/cmap/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/cmap/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/cmap/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/e2etest/allobjects_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/e2etest/allobjects_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/e2etest/passthrough_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/e2etest/passthrough_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/e2etest/split_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/e2etest/split_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/e2etest/validate.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/e2etest/validate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/strutils/encoding.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/strutils/encoding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/testutils/testutils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/testutils/testutils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/differences.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/differences.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/encoder.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/encoder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/identity.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/identity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/simple.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/truetype.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/truetype.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/textencoding/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/textencoding/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/transform/matrix.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/transform/matrix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/internal/transform/matrix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/internal/transform/matrix_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/annotations.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/annotations.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/appender.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/appender.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/appender_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/appender_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/colorspace.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/colorspace.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/colorspace_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/colorspace_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/fields.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/fields.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/flatten.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/flatten.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/font.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/font.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/font_composite.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/font_composite.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/font_composite_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/font_composite_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/font_simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/font_simple.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/font_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/font_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/fontfile.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/fontfile.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/form.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/form.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/form_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/form_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/functions_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/functions_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/fuzz_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/fuzz_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/image.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/font.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/font.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/std.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/std.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/std_other.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/std_other.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/testdata/afms/export_metrics.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/testdata/afms/export_metrics.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/ttfparser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/ttfparser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/internal/fonts/ttfparser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/internal/fonts/ttfparser_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/chain.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/chain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/combine_duplicate_direct_objects.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/combine_duplicate_direct_objects.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/combine_duplicate_streams.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/combine_duplicate_streams.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/combine_identical_indirect_objects.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/combine_identical_indirect_objects.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/compress_streams.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/compress_streams.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/image.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/image_ppi.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/image_ppi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/object_streams.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/object_streams.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/optimize_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/optimize_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimize/optimizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimize/optimizer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/optimizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/optimizer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/outline.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/outline.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/outlines.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/outlines.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/page.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/page.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/page_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/page_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/pattern.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/pattern.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/reader_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/reader_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/resources.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/resources.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/shading.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/shading.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/sighandler/sighandler_pkcs7.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/sighandler/sighandler_pkcs7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/sighandler/sighandler_rsa_sha1.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/sighandler/sighandler_rsa_sha1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/signature.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/signature.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/signature_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/signature_handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/structures.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/structures.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/writer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/writer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/writer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/writer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/model/xobject.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/model/xobject.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/ps/exec.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/ps/exec.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/ps/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/ps/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/ps/parser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/ps/parser_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pdf/model/writer.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="726" column="38" selection-start-line="726" selection-start-column="38" selection-end-line="726" selection-end-column="38" />
+              <folding>
+                <element signature="e#104#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>encryptO</find>
+      <find>EncryptOptions</find>
+      <find>github.com/codefinio</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>github.com/finalversus</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/Homebrew/Cellar/go/1.11.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pdf/model/writer.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-113" />
+    <option name="y" value="-1028" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pdf-fork" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/kasset/pdf-fork" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="pdf-fork" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/kasset/pdf-fork" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="pdf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pdf-fork" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/kasset/pdf-fork" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="pdf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-113" y="-1028" width="1397" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3297362" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297362" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pdf/model/writer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="726" column="38" selection-start-line="726" selection-start-column="38" selection-end-line="726" selection-end-column="38" />
+          <folding>
+            <element signature="e#104#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

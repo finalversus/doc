@@ -5,10 +5,10 @@ import (
 	"math"
 	"sort"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type Table struct {

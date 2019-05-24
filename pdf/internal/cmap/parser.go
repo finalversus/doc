@@ -10,8 +10,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // cMapParser parses CMap character to unicode mapping files.

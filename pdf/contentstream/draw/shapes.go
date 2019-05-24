@@ -3,9 +3,9 @@ package draw
 import (
 	"math"
 
-	pdfcontent "github.com/codefinio/doc/pdf/contentstream"
-	pdfcore "github.com/codefinio/doc/pdf/core"
-	pdf "github.com/codefinio/doc/pdf/model"
+	pdfcontent "github.com/finalversus/doc/pdf/contentstream"
+	pdfcore "github.com/finalversus/doc/pdf/core"
+	pdf "github.com/finalversus/doc/pdf/model"
 )
 
 type Circle struct {

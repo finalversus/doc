@@ -17,9 +17,9 @@ import (
 
 	"flag"
 
-	pdfcommon "github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/internal/fonts"
-	"github.com/codefinio/doc/pdf/model"
+	pdfcommon "github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/internal/fonts"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func main() {

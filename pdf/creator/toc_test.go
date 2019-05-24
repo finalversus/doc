@@ -3,7 +3,7 @@ package creator
 import (
 	"testing"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func TestTOCAdvanced(t *testing.T) {

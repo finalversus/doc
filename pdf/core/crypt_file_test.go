@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	pdfcontent "github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/core"
-	pdf "github.com/codefinio/doc/pdf/model"
+	pdfcontent "github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/core"
+	pdf "github.com/finalversus/doc/pdf/model"
 )
 
 const aes3Dir = `./testdata`

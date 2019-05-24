@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // FromFontDifferences converts `diffList` (a /Differences array from an /Encoding object) to a map

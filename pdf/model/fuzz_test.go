@@ -5,7 +5,7 @@ package model
 import (
 	"testing"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // Test for an endless recursive loop in

@@ -38,10 +38,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/cmap"
-	"github.com/codefinio/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/cmap"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
 )
 
 // MakeEncoder returns an encoder built from the tables in `rec`.

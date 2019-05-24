@@ -6,10 +6,10 @@ import (
 	"errors"
 	"math"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/sampling"
-	"github.com/codefinio/doc/pdf/ps"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/sampling"
+	"github.com/finalversus/doc/pdf/ps"
 )
 
 // PdfFunction interface represents the common methods of a function in PDF.

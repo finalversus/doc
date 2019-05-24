@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // Passthrough benchmark loads a PDF, writes back out and performs a sanity check on the output with ghostscript.

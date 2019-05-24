@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // FieldData represents form field data loaded from JSON file.

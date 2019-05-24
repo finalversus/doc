@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfAnnotation represents an annotation in PDF (section 12.5 p. 389).

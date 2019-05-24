@@ -12,9 +12,9 @@ import (
 	_ "image/gif"
 	_ "image/png"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/internal/sampling"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/internal/sampling"
 )
 
 // Image interface is a basic representation of an image used in PDF.

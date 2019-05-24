@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"unicode/utf16"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 var pdfdocEncodingRuneMap map[rune]byte

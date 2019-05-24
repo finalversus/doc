@@ -1,8 +1,8 @@
 package creator
 
 import (
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 type Rectangle struct {

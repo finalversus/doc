@@ -3,7 +3,7 @@
 package optimize
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // CompressStreams compresses uncompressed streams.

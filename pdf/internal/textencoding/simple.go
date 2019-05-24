@@ -8,8 +8,8 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 	"golang.org/x/text/encoding"
 	xtransform "golang.org/x/text/transform"
 )

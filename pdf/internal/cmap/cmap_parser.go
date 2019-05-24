@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 // parse parses the CMap file and loads into the CMap structure.

@@ -3,10 +3,10 @@
 package creator
 
 import (
-	pdfcontent "github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	pdfcore "github.com/codefinio/doc/pdf/core"
-	pdf "github.com/codefinio/doc/pdf/model"
+	pdfcontent "github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	pdfcore "github.com/finalversus/doc/pdf/core"
+	pdf "github.com/finalversus/doc/pdf/model"
 )
 
 // FilledCurve represents a closed path of Bezier curves with a border and fill.

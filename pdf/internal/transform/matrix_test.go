@@ -6,7 +6,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/codefinio/doc/common"
+	"github.com/finalversus/doc/common"
 )
 
 func init() {

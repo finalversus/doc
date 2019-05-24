@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func TestLoadPDFFormData(t *testing.T) {

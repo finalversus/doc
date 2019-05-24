@@ -8,11 +8,11 @@ import (
 	goimage "image"
 	"os"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/contentstream"
-	"github.com/codefinio/doc/pdf/contentstream/draw"
-	"github.com/codefinio/doc/pdf/core"
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/contentstream"
+	"github.com/finalversus/doc/pdf/contentstream/draw"
+	"github.com/finalversus/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 // The Image type is used to draw an image onto PDF.

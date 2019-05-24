@@ -7,7 +7,7 @@
 package fonts
 
 import (
-	"github.com/codefinio/doc/pdf/internal/textencoding"
+	"github.com/finalversus/doc/pdf/internal/textencoding"
 )
 
 func init() {

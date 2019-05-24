@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/codefinio/doc/common"
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // PdfColorspace interface defines the common methods of a PDF colorspace.

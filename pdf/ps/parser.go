@@ -9,8 +9,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/codefinio/doc/common"
-	pdfcore "github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/common"
+	pdfcore "github.com/finalversus/doc/pdf/core"
 )
 
 // PSParser is a basic Postscript parser.

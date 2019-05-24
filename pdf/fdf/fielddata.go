@@ -8,7 +8,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // Data represents forms data format (FDF) file data.

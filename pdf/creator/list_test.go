@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/codefinio/doc/pdf/model"
+	"github.com/finalversus/doc/pdf/model"
 )
 
 func TestListSimple(t *testing.T) {

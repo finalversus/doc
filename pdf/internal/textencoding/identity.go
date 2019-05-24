@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // IdentityEncoder represents an 2-byte identity encoding

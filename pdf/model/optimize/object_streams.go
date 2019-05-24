@@ -3,7 +3,7 @@
 package optimize
 
 import (
-	"github.com/codefinio/doc/pdf/core"
+	"github.com/finalversus/doc/pdf/core"
 )
 
 // ObjectStreams groups PDF objects to object streams.
